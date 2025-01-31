@@ -1,6 +1,6 @@
 # NIVIC Website - Final Project for Web Development Weekly Class GDSC UIN Jakarta
 
-This project is a submission for the Web Development Weekly Class by GDSC UIN Jakarta. It is a landing page website built using HTML, CSS, and JavaScript, designed to introduce and showcase N3TS Civic Club (NIVIC)—a high school extracurricular organization focused on law, politics, and civic education.
+This project is a submission for the Web Development Weekly Class by GDSC UIN Jakarta. It is a landing page website built using HTML, CSS, and JavaScript, designed to introduce and showcase N3TS Civic Club (NIVIC), a high school extracurricular organization focused on law, politics, and civic education.
 
 ## About NIVIC
 
